@@ -116,7 +116,7 @@ QP-Gen is built using the following cutting-edge technologies:
 
 ### Prerequisites  
 
-Ensure the following are installed:  
+Ensure the following are installed:   
 - Node.js (v16 or later)  
 - npm (v8 or later)  
 
